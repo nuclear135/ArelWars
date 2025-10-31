@@ -13,12 +13,12 @@ TagManager:
   - Ground
   - Water
   - UI
-  - Unit
-  - Tower
-  - 
-  - 
-  - 
-  - 
+  - Player Unit
+  - Player Tower
+  - Player Hero
+  - Enemy Unit
+  - Enemy Tower
+  - Enemy Hero
   - 
   - 
   - 
